@@ -1,0 +1,92 @@
+
+span{color:white; font-size: 35px;}
+div{color: blue;}
+.man{color: orange;}
+.woman{color: black;}
+.code{
+    height:auto;
+    width: auto;
+    background-color: red;
+    
+}
+.liverpool{
+    font-size: 70px;
+color: yellow;
+}
+.shape{
+    
+    background-color: red;
+    width: 1250px;
+    height: 20px;
+}
+hr{
+    height: 200px;
+}
+.naija{  
+    font-size: 15px;
+    color: grey;
+    align-items: center;
+    justify-self: center;
+}
+
+.app{
+    justify-self: center;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border: 1px;
+    border-style: solid;
+    margin-top: 200px;
+    border-radius: 50%;
+}
+.button{
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    width: 1250px;
+    height: auto;
+}
+.block{
+    display: flex;
+    gap: 10px ;
+    align-items: center;
+    
+}
+
+.block :nth-child(1){
+    background-color: red;
+}
+.block :nth-child(2){
+    background-color: orange;
+}
+.block :nth-child(3){
+    background-color: yellow;
+}
+.block :nth-child(4){
+    background-color: green;
+}
+.block :nth-child(5){
+    background-color: blue;
+}
+.block :nth-child(6){
+    background-color: indigo;
+}
+.block :nth-child(7){
+    background-color: violet;
+}
+.block p{
+    height: 50px;
+    width: 100px;
+    border: 2px;
+    border-style: solid;
+}
+
+.project{
+    display: flex;
+    gap: 10px;
+}
+img{
+    align-self: center;
+    height:700px;
+    width: 1250px;
+}
